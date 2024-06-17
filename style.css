@@ -1,0 +1,148 @@
+
+
+.body-bg{
+    background-image: url(img/body-bgg.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+
+
+
+.form-bg{
+    background-image: url(img2/bg-img.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    border-radius: 20px;
+    color: #000000;
+}
+.sec-icon {
+    font-size: 40px;
+    color: #fff;
+
+}
+.clo{
+    background-color: #cc7532;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.about {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.wel {
+    background: #ff7373;
+    font-size: 22px;
+    padding: 4px 20px 4px 20px;
+    border-radius: 4px;
+}
+
+.ab {
+    font-size: 38px;
+}
+
+.abp {
+    font-size: 18px;
+    text-align: justify;
+}
+
+
+
+/* gallery css */
+
+
+.foot-icon {
+    font-size: 22px;
+    color: #fff;
+    background: #fc5c2a;
+    padding: 8px;
+    border-radius: 5px;
+
+}
+
+/* Home End */
+
+/* Aboust Start */
+
+.div1 {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.btn {
+    border: none;
+    background: #28dafa;
+    color: #fff;
+    padding: 5px 15px 5px 15px;
+    border-radius: 5px;
+    font-weight: 700;
+}
+
+.abc {
+    color: aqua;
+}
+
+.h2 {
+    text-align: center;
+    color: coral;
+    padding-top: 21px;
+
+}
+
+.menu-bg{
+    background-image: url(img/menu.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover"
+}
+
+
+.tabel-bg{
+    color: #000000;
+    background-image: url(img/table.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover
+    
+
+}
+
+
+/* card bg color */
+.card-bg{
+    background: #e89c69;
+    border: none;
+    border-radius: 14px;
+}
+
+.maap{
+    border-radius: 15px;
+}
+
+/* table image */
+.image-table{
+    border-radius: 25px;
+}
+
+
+.heading-table{
+    background: #66ff96;
+    color: #fff;
+    text-align: center;
+}
+
+
+
+.specialt-background{
+    text-align: center;
+    color: #000000;
+    background-image: url(img/table.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover
+
+}
